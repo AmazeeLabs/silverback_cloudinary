@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/silverback_cloudinary",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "main": "index.js",
   "scripts": {
     "version": "sync-composer-version",
@@ -16,5 +16,5 @@
     "repository": "git@github.com:AmazeeLabs/silverback_cloudinary.git",
     "branch": "main"
   },
-  "gitHead": "a8189fffd0c956a24b2b22b2af16ba6cffbd6538"
+  "gitHead": "f7956dd18449003ae60996058c0d556497c47be7"
 }
